@@ -33,17 +33,20 @@
 
 支持 **自定义戒断项目** 和 **自定义图标**。
 
-感谢白噪音的来源出处，为了控制app大小，做了1分钟的剪切
-类型	图标	 文件名          来源
-雨声	🌧️	noise_雨声.mp3  heavy rain wind thunder.mp3 by john.herrbach -- https://freesound.org/s/645841/ -- License: Creative Commons 0 
-篝火	🔥	noise_篝火.mp3  fire.mp3 by soupods -- https://freesound.org/s/581720/ -- License: Creative Commons 0
-海浪	🌊	noise_海浪.mp3  river waves 153PM 220428_0340.mp3 by klankbeeld -- https://freesound.org/s/636738/ -- License: Attribution 4.0
-夜晚	🌙	noise_夜晚.mp3  AMB noche grillos.mp3 by missteik -- https://freesound.org/s/342381/ -- License: Creative Commons 0
-森林	🌿	noise_森林.mp3  windy forest.mp3 by inchadney -- https://freesound.org/s/151823/ -- License: Attribution 4.0
+## 感谢白噪音的来源出处
+
+为了控制app大小，做了1分钟的剪切
+|类型|	图标	| 文件名| 来源| 
+|--------|--------|--------|--------|
+| 雨声	| 🌧️	| noise_雨声.mp3  | heavy rain wind thunder.mp3 by john.herrbach -- https://freesound.org/s/645841/ -- License: Creative Commons 0 | 
+| 篝火| 	🔥| 	noise_篝火.mp3 |  fire.mp3 by soupods -- https://freesound.org/s/581720/ -- License: Creative Commons 0| 
+| 海浪	| 🌊| 	noise_海浪.mp3 |  river waves 153PM 220428_0340.mp3 by klankbeeld -- https://freesound.org/s/636738/ -- License: Attribution 4.0| 
+| 夜晚	| 🌙| 	noise_夜晚.mp3 |  AMB noche grillos.mp3 by missteik -- https://freesound.org/s/342381/ -- License: Creative Commons 0| 
+| 森林	| 🌿	| noise_森林.mp3 |  windy forest.mp3 by inchadney -- https://freesound.org/s/151823/ -- License: Attribution 4.0| 
 
 
-
-如果您有任何问题或者需求 请通过以下方式联系我们：
+## 联系方式
+如果您有任何问题或者后续的APP功能需求 请通过以下方式联系我们：
 
 - 📧 邮箱：[yangshengxing88@163.com]
 - 🐙 GitHub：[https://github.com/RichradsY/QuitApp]
