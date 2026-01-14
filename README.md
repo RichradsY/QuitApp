@@ -32,34 +32,6 @@
 
 支持 **自定义戒断项目** 和 **自定义图标**。
 
-## 🛠 技术栈
-
-- **语言**: Swift 5.9+
-- **UI框架**: SwiftUI
-- **数据存储**: UserDefaults + JSON
-- **最低版本**: iOS 16.0
-
-## 📦 项目结构
-
-```
-QuitApp/
-├── QuitApp.swift              # App 入口
-├── ContentView.swift          # 主视图
-├── Models/
-│   ├── QuitItem.swift         # 戒断项模型
-│   ├── Relapse.swift          # 破戒记录模型
-│   └── PresetCategory.swift   # 预设类别
-├── Views/
-│   ├── HomeView.swift         # 主页 + 组件
-│   ├── CreateView.swift       # 新建戒断
-│   ├── RelapseView.swift      # 破戒确认
-│   └── ShareCardView.swift    # 分享卡片
-├── Services/
-│   └── StorageService.swift   # 数据持久化
-└── Extensions/
-    ├── Color+Extensions.swift
-    └── Date+Extensions.swift
-```
 
 如果您有任何问题或者需求 请通过以下方式联系我们：
 
