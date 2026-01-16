@@ -4,7 +4,7 @@
 
 <a id="chinese"></a>
 # QuitApp
-QuitApp - 你的万能戒断助手 (现已支持多语言)
+QuitApp - 你的万能戒断助手 (现已支持多语言，V1.1)
 
 > **"你已经X天没碰XX了"**
 
