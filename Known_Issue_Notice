@@ -1,0 +1,104 @@
+# 已知问题公告 | Known Issue Notice
+
+## 🔔 问题描述
+
+部分用户在更新到最新版本后，发现之前记录的戒断数据"消失"了。
+
+**请放心：您的数据并没有真正丢失！**
+
+---
+
+## 📋 问题原因
+
+为了支持桌面小组件功能，我们调整了数据存储位置。更新后，App 暂时无法读取旧位置的数据，但数据仍然完好保存在您的设备上。
+
+---
+
+## ✅ 修复状态
+
+| 状态 | 说明 |
+|------|------|
+| 🔍 已发现 | 2026年1月17日 |
+| 🔧 已修复 | 代码已完成修复 |
+| 📦 待发布 | 将在**下一次更新**中推送 |
+
+---
+
+## 🎯 您现在需要做什么？
+
+**什么都不用做！** 只需等待下一次更新：
+1. 更新到新版本后打开 App
+2. 数据将**自动恢复**
+3. 无需任何手动操作
+
+---
+
+## 💬 联系我们
+
+如有任何疑问，请通过以下方式联系：
+- App Store 评论区留言
+- 开发者邮箱
+
+感谢您的理解与支持！🙏
+
+---
+
+# English Version
+
+## 🔔 Issue Description
+
+Some users noticed their quit tracking data "disappeared" after updating to the latest version.
+
+**Don't worry: Your data is NOT actually lost!**
+
+## 📋 Root Cause
+
+To support the new home screen widget feature, we changed the data storage location. After updating, the app temporarily cannot read data from the old location, but your data is still safely stored on your device.
+
+## ✅ Fix Status
+
+| Status | Description |
+|--------|-------------|
+| 🔍 Identified | January 17, 2026 |
+| 🔧 Fixed | Code fix completed |
+| 📦 Pending | Will be included in **next update** |
+
+## 🎯 What Should You Do?
+
+**Nothing!** Just wait for the next update:
+1. Update to the new version and open the app
+2. Your data will be **automatically restored**
+3. No manual action required
+
+Thank you for your patience and support! 🙏
+
+---
+
+# Version Française
+
+## 🔔 Description du Problème
+
+Certains utilisateurs ont remarqué que leurs données de suivi ont "disparu" après la mise à jour.
+
+**Ne vous inquiétez pas : Vos données ne sont PAS réellement perdues !**
+
+## 📋 Cause
+
+Pour supporter le nouveau widget d'écran d'accueil, nous avons changé l'emplacement de stockage des données. Après la mise à jour, l'app ne peut temporairement pas lire les données de l'ancien emplacement, mais vos données sont toujours stockées en sécurité sur votre appareil.
+
+## ✅ Statut de la Correction
+
+| Statut | Description |
+|--------|-------------|
+| 🔍 Identifié | 17 janvier 2026 |
+| 🔧 Corrigé | Correction terminée |
+| 📦 En attente | Inclus dans la **prochaine mise à jour** |
+
+## 🎯 Que Faire ?
+
+**Rien !** Attendez simplement la prochaine mise à jour :
+1. Mettez à jour vers la nouvelle version et ouvrez l'app
+2. Vos données seront **automatiquement restaurées**
+3. Aucune action manuelle requise
+
+Merci de votre patience et de votre soutien ! 🙏
