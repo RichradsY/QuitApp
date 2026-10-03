@@ -1,204 +1,115 @@
-# 隐私政策 | Privacy Policy | Politique de Confidentialité
+# 隐私政策 | Privacy Policy | Politique de confidentialité
 
----
+## 中文
 
-## 🇨🇳 中文
+最后更新：2026年10月3日 · 适用于「戒了没」
 
-**最后更新日期：2026年1月14日**
+本地恢复副本的说明适用于 1.2.3 及以后版本。
 
-感谢您使用「戒了没」（以下简称"本应用"）。我们非常重视您的隐私保护。本隐私政策旨在向您说明我们如何收集、使用和保护您的个人信息。
+### 开发者不收集数据
 
-### 1. 信息收集
+「戒了没」（QuitApp）没有账号、广告、内购、行为追踪或第三方分析 SDK。应用的计数、记录和白噪音功能不需要联网。我们不接收或上传你的目标、历史、备注或使用数据，也无法从服务器访问它们。
 
-#### 我们不收集任何个人信息
+### 设备上的记录和设置
 
-本应用采用完全本地化的数据存储方案：
+应用在本机保存目标名称、图标、开始时间、破戒历史及可选原因、自定义鼓励语，以及语言、外观、声音和提醒设置。应用与自己的小组件通过系统 App Group 共享需要显示的记录和设置；不会与其他开发者的应用共享。
 
-- ✅ 所有数据仅存储在您的设备本地
-- ✅ 不需要注册账号
-- ✅ 不需要联网使用
-- ✅ 不收集任何个人身份信息
-- ✅ 不追踪用户行为
-- ✅ 不使用第三方分析服务
+为避免更新或写入异常造成记录丢失，应用还会在本地保存事务文件、上一份事务及迁移或恢复时的原始副本。发生冲突时，应用先保留原始内容，再让你选择恢复。开发者不会接收这些副本。
 
-#### 本地存储的数据
+### 保存、移除与恢复副本
 
-本应用在您的设备上存储以下信息：
+记录会保留到你移除目标或删除本机应用数据。移除或完成目标会将它移出当前记录，但不会自动清理历史恢复副本；副本可能仍包含该目标及备注，且当前版本没有逐个清理恢复档案的入口。它们用于避免误覆盖，不能代替独立备份。
 
-- 戒断项目名称和图标
-- 开始日期和坚持天数
-- 破戒记录和原因（如您选择填写）
+如要移除本机应用数据，请使用系统的“删除 App”，而非保留文稿数据的“卸载 App”。由你启用的系统备份、已导出的文件和已分享的图片需在相应系统或服务中另行管理；删除应用不会召回这些副本。开发者没有可替你访问或删除的服务器记录。
 
-这些数据仅存储在您的设备上，我们无法访问。
+### 你主动选择的分享和外链
 
-### 2. 相册权限
+只有当你主动使用系统分享面板，进度卡片或选中的恢复档案才会交给你指定的应用、文件位置或收件人。恢复档案可能包含目标、历史和备注，请选择你信任的目的地。保存卡片到相册时，系统可能请求添加照片权限；我们不会读取或上传你的其他照片。
 
-本应用会请求访问您的相册权限，仅用于：
+打开 GitHub、隐私政策或音频来源等外部链接后，浏览器及目标网站按各自的政策处理网络访问。应用不会自动把你的目标和备注附加到这些链接。
 
-- 保存分享卡片图片到您的相册
+### 提醒、系统功能与儿童
 
-该权限为可选权限，仅在您点击"保存到相册"时才会请求。我们不会访问或上传您相册中的任何其他照片。
+每日提醒仅在你开启并授予通知权限后使用本地通知，可在应用或系统设置关闭。白噪音在你开启后台播放时可继续播放。操作系统备份、跨设备小组件和系统诊断由系统及你的设置管理；开发者不通过应用获取其中的数据。
 
-### 3. 数据安全
+本应用不专门面向 13 岁以下儿童，也不会主动收集儿童信息。
 
-- 所有数据均存储在您的 iOS 设备本地
-- 数据随 iOS 系统加密保护
-- 卸载应用将删除所有本地数据
-- 我们不保留任何用户数据的备份
+### 更新与联系
 
-### 4. 第三方服务
+政策变化会更新本页及日期。若你主动发送反馈邮件，我们只会使用你提供的联系方式和内容来回应；请勿发送不必要的私人记录。隐私问题可联系：yangshengxing88@163.com。
 
-本应用不使用任何第三方分析、广告或追踪服务。
+## English
 
-### 5. 儿童隐私
+Last updated: October 3, 2026 · Applies to QuitApp
 
-本应用不针对13岁以下儿童，也不会有意收集任何儿童的个人信息。
+Recovery-copy details apply to version 1.2.3 and later.
 
-### 6. 隐私政策的变更
+### The developer collects no app data
 
-如本隐私政策有任何变更，我们将在应用更新时通知您。
+QuitApp has no account, advertising, in-app purchases, tracking or third-party analytics SDKs. Its counter, records and background sounds work offline. We do not receive or upload your goals, history, notes or usage data and cannot access them from a server.
 
-### 7. 联系我们
+### Records and settings on your device
 
-如果您对本隐私政策有任何疑问，请通过以下方式联系我们：
+The app stores goal names, icons, start times, setback history and optional reasons, custom encouragements, and language, appearance, sound and reminder settings locally. The app and its own widgets use an App Group to share the records and settings needed for display. They do not share these with other developers’ apps.
 
-- 📧 邮箱：yangshengxing88@163.com
-- 🐙 GitHub：https://github.com/RichradsY/QuitApp
+To protect records during updates or interrupted writes, the app also keeps local transaction files, the previous transaction, and original copies made during migration or recovery. If copies conflict, the app preserves the originals before asking you to choose a recovery source. The developer does not receive these copies.
 
----
+### Retention, removal and recovery copies
 
-## 🇬🇧 English
+Records remain until you remove a goal or delete the local app data. Removing or completing a goal removes it from the current records but does not automatically erase older recovery copies. Those copies may still contain the goal and its notes; this version has no control for deleting individual recovery archives. They help prevent accidental overwrites and do not replace an independent backup.
 
-**Last Updated: January 14, 2026**
+To remove local app data, use the system’s Delete App option, rather than Offload App, which retains documents and data. Manage any system backups you enabled, exported files and shared images separately in the relevant system or service. Deleting the app does not recall those copies. The developer has no server records to access or delete on your behalf.
 
-Thank you for using "QuitNow" (hereinafter referred to as "the App"). We take your privacy very seriously. This Privacy Policy is intended to explain how we collect, use, and protect your personal information.
+### Sharing and external links you choose
 
-### 1. Information Collection
+Only when you use the system share sheet does a progress card or selected recovery archive go to an app, file location or recipient you choose. Recovery archives may contain goals, history and notes, so choose a destination you trust. Saving a card to Photos may prompt the system to request permission to add photos. We do not read or upload your other photos.
 
-#### We Do Not Collect Any Personal Information
+When you open an external link to GitHub, this policy or an audio source, the browser and destination website handle network access under their own policies. The app does not automatically attach your goals or notes to those links.
 
-This app uses a completely local data storage approach:
+### Reminders, system features and children
 
-- ✅ All data is stored only on your device
-- ✅ No account registration required
-- ✅ No internet connection needed to use
-- ✅ No personal identification information collected
-- ✅ No user behavior tracking
-- ✅ No third-party analytics services used
+Daily reminders use local notifications only after you enable them and grant notification permission. You can turn them off in the app or system settings. Background sounds can continue when you enable background playback. System backups, cross-device widgets and system diagnostics are managed by the operating system and your settings; the developer does not obtain this data through the app.
 
-#### Locally Stored Data
+The app is not specifically directed at children under 13 and does not knowingly collect information from children.
 
-This app stores the following information on your device:
+### Changes and contact
 
-- Quit item names and icons
-- Start dates and days of persistence
-- Relapse records and reasons (if you choose to fill in)
+Policy changes will appear on this page with an updated date. If you choose to email feedback, we use the contact details and content you provide only to respond. Please do not send unnecessary private records. For privacy questions: yangshengxing88@163.com.
 
-This data is stored only on your device, and we cannot access it.
+## Français
 
-### 2. Photo Library Permission
+Dernière mise à jour : 3 octobre 2026 · Pour QuitApp
 
-This app may request access to your photo library, solely for:
+Les indications sur les copies de récupération concernent la version 1.2.3 et les suivantes.
 
-- Saving share card images to your photo library
+### Le développeur ne collecte aucune donnée de l’application
 
-This permission is optional and will only be requested when you tap "Save to Photo Library". We will not access or upload any other photos in your photo library.
+QuitApp ne comporte ni compte, ni publicité, ni achats intégrés, ni suivi, ni SDK d’analyse tiers. Le compteur, les notes et les sons d’ambiance fonctionnent hors ligne. Nous ne recevons ni ne transmettons vos objectifs, votre historique, vos notes ou vos données d’utilisation. Nous ne pouvons pas y accéder depuis un serveur.
 
-### 3. Data Security
+### Données et réglages sur votre appareil
 
-- All data is stored locally on your iOS device
-- Data is protected by iOS system encryption
-- Uninstalling the app will delete all local data
-- We do not retain any backup of user data
+L’application conserve localement le nom et l’icône des objectifs, leur date de début, l’historique des écarts et leurs raisons facultatives, vos encouragements personnalisés, ainsi que les réglages de langue, d’apparence, de son et de rappel. L’application et ses propres widgets utilisent un App Group pour partager les données nécessaires à l’affichage. Elles ne sont pas partagées avec les applications d’autres développeurs.
 
-### 4. Third-Party Services
+Pour protéger les données lors des mises à jour ou des écritures interrompues, l’application conserve aussi des fichiers de transaction locaux, la transaction précédente et les copies originales créées lors d’une migration ou d’une récupération. En cas de conflit, les originaux sont conservés avant que vous choisissiez une source à récupérer. Le développeur ne reçoit pas ces copies.
 
-This app does not use any third-party analytics, advertising, or tracking services.
+### Conservation, suppression et copies de récupération
 
-### 5. Children's Privacy
+Les données sont conservées jusqu’à la suppression d’un objectif ou des données locales de l’application. Supprimer ou terminer un objectif le retire des données courantes, mais n’efface pas automatiquement les anciennes copies de récupération. Celles-ci peuvent encore contenir l’objectif et ses notes. Cette version ne permet pas de supprimer individuellement ces archives. Elles protègent contre les écrasements accidentels et ne remplacent pas une sauvegarde indépendante.
 
-This app is not intended for children under 13 years of age, and we do not knowingly collect any personal information from children.
+Pour retirer les données locales, utilisez l’option système « Supprimer l’app », et non « Décharger l’app », qui conserve les documents et données. Gérez séparément les sauvegardes système que vous avez activées, les fichiers exportés et les images partagées dans le système ou service concerné. Supprimer l’application ne rappelle pas ces copies. Le développeur ne dispose d’aucune donnée sur serveur à consulter ou à supprimer pour vous.
 
-### 6. Changes to This Privacy Policy
+### Partages et liens externes de votre choix
 
-If there are any changes to this Privacy Policy, we will notify you when the app is updated.
+Une carte de progrès ou une archive de récupération sélectionnée n’est transmise à une application, un emplacement ou un destinataire de votre choix que lorsque vous utilisez la feuille de partage du système. Les archives peuvent contenir des objectifs, un historique et des notes : choisissez une destination de confiance. Enregistrer une carte dans Photos peut entraîner une demande d’autorisation d’ajout de photos par le système. Nous ne consultons ni ne transmettons vos autres photos.
 
-### 7. Contact Us
+Si vous ouvrez un lien externe vers GitHub, cette politique ou une source audio, le navigateur et le site de destination traitent l’accès réseau selon leurs propres politiques. L’application n’ajoute pas automatiquement vos objectifs ou vos notes à ces liens.
 
-If you have any questions about this Privacy Policy, please contact us through:
+### Rappels, fonctions système et enfants
 
-- 📧 Email: yangshengxing88@163.com
-- 🐙 GitHub: https://github.com/RichradsY/QuitApp
+Les rappels quotidiens utilisent des notifications locales uniquement après leur activation et votre autorisation. Vous pouvez les désactiver dans l’application ou les réglages système. Les sons peuvent continuer si vous activez la lecture en arrière-plan. Les sauvegardes système, les widgets entre appareils et les diagnostics système dépendent du système et de vos réglages ; le développeur n’obtient pas ces données via l’application.
 
----
+L’application ne s’adresse pas spécifiquement aux enfants de moins de 13 ans et ne collecte pas sciemment d’informations les concernant.
 
-## 🇫🇷 Français
+### Modifications et contact
 
-**Dernière mise à jour : 14 janvier 2026**
-
-Merci d'utiliser « QuitNow » (ci-après dénommée « l'Application »). Nous accordons une grande importance à la protection de votre vie privée. Cette Politique de Confidentialité vise à vous expliquer comment nous collectons, utilisons et protégeons vos informations personnelles.
-
-### 1. Collecte d'Informations
-
-#### Nous Ne Collectons Aucune Information Personnelle
-
-Cette application utilise une approche de stockage de données entièrement locale :
-
-- ✅ Toutes les données sont stockées uniquement sur votre appareil
-- ✅ Aucune inscription de compte requise
-- ✅ Aucune connexion internet nécessaire pour l'utilisation
-- ✅ Aucune information d'identification personnelle collectée
-- ✅ Aucun suivi du comportement des utilisateurs
-- ✅ Aucun service d'analyse tiers utilisé
-
-#### Données Stockées Localement
-
-Cette application stocke les informations suivantes sur votre appareil :
-
-- Noms et icônes des éléments à arrêter
-- Dates de début et jours de persévérance
-- Enregistrements de rechute et raisons (si vous choisissez de les remplir)
-
-Ces données sont stockées uniquement sur votre appareil, et nous ne pouvons pas y accéder.
-
-### 2. Autorisation de la Photothèque
-
-Cette application peut demander l'accès à votre photothèque, uniquement pour :
-
-- Enregistrer des images de cartes de partage dans votre photothèque
-
-Cette autorisation est facultative et ne sera demandée que lorsque vous appuyez sur « Enregistrer dans la Photothèque ». Nous n'accéderons pas et ne téléchargerons pas d'autres photos de votre photothèque.
-
-### 3. Sécurité des Données
-
-- Toutes les données sont stockées localement sur votre appareil iOS
-- Les données sont protégées par le chiffrement du système iOS
-- La désinstallation de l'application supprimera toutes les données locales
-- Nous ne conservons aucune sauvegarde des données utilisateur
-
-### 4. Services Tiers
-
-Cette application n'utilise aucun service d'analyse, de publicité ou de suivi tiers.
-
-### 5. Confidentialité des Enfants
-
-Cette application n'est pas destinée aux enfants de moins de 13 ans, et nous ne collectons pas sciemment d'informations personnelles auprès des enfants.
-
-### 6. Modifications de Cette Politique de Confidentialité
-
-En cas de modification de cette Politique de Confidentialité, nous vous en informerons lors de la mise à jour de l'application.
-
-### 7. Nous Contacter
-
-Si vous avez des questions concernant cette Politique de Confidentialité, veuillez nous contacter par :
-
-- 📧 Email : yangshengxing88@163.com
-- 🐙 GitHub : https://github.com/RichradsY/QuitApp
-
----
-
-**🇨🇳 您的隐私是我们的首要考虑。本应用的设计原则是：您的数据属于您自己。**
-
-**🇬🇧 Your privacy is our top priority. The design principle of this app is: Your data belongs to you.**
-
-**🇫🇷 Votre vie privée est notre priorité absolue. Le principe de conception de cette application est : Vos données vous appartiennent.**
+Toute modification sera indiquée sur cette page avec une nouvelle date. Si vous envoyez volontairement un retour par courriel, nous utilisons vos coordonnées et votre message uniquement pour vous répondre. Évitez d’envoyer des notes privées inutiles. Questions de confidentialité : yangshengxing88@163.com.
